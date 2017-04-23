@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PETagram</string>
+    <string name="nombrePet">Jacky</string>
+    <string name="mContacto">Contacto</string>
+    <string name="mAbout">A cerca de</string>
+    <string name="lNombre">Nombre</string>
+    <string name="lEmail">Email</string>
+    <string name="lMensaje">Mensaje</string>
+    <string name="txtBiografia">En 1972 cuatro de los mejores hombres del ejercito americano que formaban un comando, fueron encarcelados por un delito que no habían cometido, no tardaron en fugarse de la prisión en la que se encontraban recluidos, hoy buscados todavía por el gobierno sobreviven como soldados de fortuna, si usted tiene algún problema y se los encuentra quizá pueda contratarlos.....</string>
+    <string name="sEnviado">Email Enviado</string>
+</resources>
